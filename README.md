@@ -1,1 +1,1 @@
-# cintel-01-interactive.
+# cintel-01-interactive
