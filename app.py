@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from shiny.express import ui, input, render
-import seaborn as sn
+import seaborn as sns
 
 
 @render.plot(alt="A histogram")
